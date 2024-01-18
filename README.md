@@ -2,8 +2,9 @@ Projekat se sastoji iz 4 faze: pravljenje leksera, parsera, sintaksne analize i 
 
 Saveti za izradu projekta:
 
-Najbolje je prvo odslušati sve snimke i samostalno odraditi zahteve sa snimka. Tako ćete donositi pametnije odluke u ranijim fazama, a to će se ogledati na naredne!
-Na primer, u mom kodu, gramatičke smene nisu pametno odrađene pa sam došao u situaciju da u semantičkom prolazu moram da kopiram kod više puta na više mesta.
+Najbolje je prvo odslušati sva četiri snimka i samostalno odraditi zahteve sa njih. Tako ćete donositi pametnije odluke u ranijim fazama, a to će se ogledati na naredne!
+Na primer, u mom kodu, gramatičke smene nisu pametno odrađene pa sam došao u situaciju da u semantičkom prolazu moram da kopiram kod više puta na više mesta. Imajte na umu da su snimci lošeg kvaliteta,
+malo šta je u njima objašnjeno.
 
 Takođe, treba obratiti pažnju na same uslove po nivoima jer nisu jasno naznačeni. Ja sam nameravao da radim samo nivo A, pa sam na kraju, zbog nejasnih zahteva odradio i preko toga bez potrebe (npr. pozive funkcija).
 
